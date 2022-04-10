@@ -47,7 +47,7 @@ Calculations show that there is significant difference between the reviews of Vi
 
 - Additional analyses and suggestions
 
-To improve the analysis the percentage for all stars reviews can be calculated; as per the results, as shown below:
+To improve the analysis the percentage for all stars reviews can be calculated, as shown below:
 
 ![percentageallstars_1](/Resources/percentageallstars_1.jpg) ![percentageallstars_2](/Resources/percentageallstars_2.jpg)
 
